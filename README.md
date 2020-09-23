@@ -1,4 +1,4 @@
 # test
 testing my setup
 
-*bold*
+**bold**
